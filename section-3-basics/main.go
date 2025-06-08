@@ -2,5 +2,6 @@ package main
 
 func main() {
 	// Loop()
-	Slice()
+	// Slice()
+	Recover()
 }
