@@ -6,7 +6,7 @@ import (
 	"time"
 )
 
-func main() {
+func Loop() {
 	source := rand.NewSource(time.Now().UnixNano())
 	random := rand.New(source)
 
